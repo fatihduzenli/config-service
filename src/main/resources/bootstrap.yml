@@ -9,3 +9,7 @@ spring:
           password: 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
 server:
   port: 8888
+
+
+encrypt:
+  key: cydeo
